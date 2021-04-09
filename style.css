@@ -1,0 +1,112 @@
+body {
+    text-align: center;
+    background: linear-gradient(#2cc26b 0%, #c22c2c 100%);
+    background-repeat: no-repeat;
+}
+
+img {
+    border-radius: 70%;
+    width: 150px;
+}
+
+
+h1 {
+    text-shadow: 2px 2px #F8BBD0;
+    font-size: 20px;
+}
+
+
+p {
+    font-size: 18px;
+    color: Orange;
+
+
+}
+
+h2 {
+    font-size: 20px;
+    color: black;
+}
+
+.line {
+    height: 6px;
+    background-color: black;
+    width: 140px;
+    margin: 8px auto;
+}
+
+#bio {
+    padding: 20px;
+    font-size: 18;
+    text-align: center;
+    background: linear-gradient(#2c46c2 0%, #2dfd80 100%)
+}
+
+.Menu {
+    list-style: none;
+    font-family: cursive;
+    float: right;
+    cursor: pointer;
+    color: skyblue;
+    position: fixed;
+}
+
+a {
+    color: blue;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+#Line {
+    height: 6px;
+    background-color: black;
+    width: 500px;
+    margin: 8px auto;
+}
+
+img {
+    transition: transform .2s;
+}
+
+img:hover {
+    transform: scale(0.8);
+    border: 10px solid #AAAAAA;
+}
+
+#LINE {
+    height: 6px;
+    background-color: black;
+    width: 500px;
+    margin: 8px auto;
+}
+BG{
+width: 150px;
+    height: 150px;
+    border-width: medium;
+    border-style: solid;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: red;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #AAAAAA;
+}
